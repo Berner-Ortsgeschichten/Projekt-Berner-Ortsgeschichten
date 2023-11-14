@@ -1,5 +1,5 @@
 # Projekt-Berner-Ortsgeschichten
-Für das LOD-Pilotprojekt über die "Berner Ortsgeschichten" wurden in einem ersten Schritt die knapp 40 Berner Ortsgeschichten aus dem 19. Jahrhundert ausgewählt, die vollständig digitalisiert und auf [DigiBern](https://www.digibern.ch/katalog/ortsgeschichten-aus-dem-19-jahrhundert) verfügbar sind. Die entsprechenden Metadaten, die aus dem Katalog extrahiert wurden, wurden angereichert und auf einer Karte georeferenziert.
+Für das LOD-Pilotprojekt über die "Berner Ortsgeschichten" wurden in einem ersten Schritt die knapp 40 Berner Ortsgeschichten aus dem 19. Jahrhundert ausgewählt, die vollständig digitalisiert und auf [DigiBern](https://www.digibern.ch/katalog/ortsgeschichten-aus-dem-19-jahrhundert) verfügbar sind. Die entsprechenden Metadaten, die aus dem Katalog extrahiert wurden, sind angereichert und auf einer Karte georeferenziert.
 
 [Berner Ortsgeschichten aus dem 19. Jahrhundert](https://www.google.com/maps/d/viewer?mid=1RgPrC4f7u6zwvJJgFIaWRABBFzHYcdg&ll=46.86141647085042%2C7.715000000000023&z=10)
 
@@ -14,4 +14,4 @@ Dank der während dieses Prozesses hinzugefügten Q-IDs können Links zu den Wap
 Weitere geplante Schritte:
 - Kontinuierliche Erweiterung der BErnerOrtsTabelle (BEOT), die die Q-IDs, Links zu HLS-DHS und ortsnamen.ch sowie die GND-IDs enthält.
 - Direkte Anreicherung der GND-Datensätze von Berner Ortschaften mit Q-IDs.
-- Standortdaten in Wikidata zu ergänzen und korrigieren.
+- Standortdaten in Wikidata ergänzen und korrigieren.
